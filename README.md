@@ -36,11 +36,10 @@
 
 <p align="center">
   <a href="mailto:its47h4m@gmail.com">📧 Email</a> •
-  <a href="https://github.com/alham-rizvi">GitHub</a> •
+  <a href="https://github.com/alhamrizvi-cloud">GitHub</a> •
   <a href="https://tryhackme.com/p/alhamrizvii">TryHackMe</a>
 </p>
 
----
 
 ## 🧠 Profile
 Offensive Security Researcher & Penetration Tester specializing in  
