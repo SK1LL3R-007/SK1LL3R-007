@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Mohamed+Aziz+Kilani;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
 
 <p align="center">
@@ -8,19 +8,19 @@
 </p>
 
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/">
+  <a href="https://sk1ll3r-007.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
   </a>
-  <a href="https://alhamrizvi.wordpress.com/">
+  <a href="https://sk1ll3r-007.github.io/">
     <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
   </a>
-  <a href="mailto:its47h4m@gmail.com">
+  <a href="mailto:kilanimohammedaziz@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/alham-rizvi">
+  <a href="https://www.linkedin.com/in/sk1ll3r/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://twitter.com/Alhamrizvii">
+  <a href="https://www.facebook.com/profile.php?id=61577889930584">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
   </a>
 </p>
@@ -32,7 +32,7 @@ Offensive Security Researcher & Penetration Tester specializing in
 <strong>Web, API, and Network Security</strong>.
 
 - 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
-- 🏆 Top **#6 National Rank** on TryHackMe
+- 🏆 Top **#1% International Rank** on TryHackMe
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
 
