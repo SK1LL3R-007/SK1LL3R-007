@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.facebook.com/profile.php?id=61577889930584">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+    <img src="https://img.shields.io/badge/Facebook-3D82ED?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
